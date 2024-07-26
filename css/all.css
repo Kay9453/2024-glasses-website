@@ -407,7 +407,7 @@ input, textarea {
   font-size: 0;
 }
 .header .nav .logo h1 a {
-  background-image: url("../../images/logo-white.png");
+  background-image: url("../images/logo-white.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 80px;
@@ -504,7 +504,7 @@ input, textarea {
 }
 
 .banner {
-  background-image: url("../../images/home-header.png");
+  background-image: url("../images/home-header.png");
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
