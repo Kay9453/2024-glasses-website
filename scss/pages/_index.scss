@@ -22,7 +22,7 @@
 }
 @media (max-width:576px) {
     .banner{
-        background-image: url("../../images/home-header-sm.png");
+        background-image: url("../images/home-header-sm.png");
         height: calc(100vh - 180px);
     }
     .slogan{
@@ -93,18 +93,18 @@
 
 // 區塊：聯名設計鏡框
 .co-branding{
-    background-image: url("../../images/index-bg.png");
+    background-image: url("../images/index-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 @media (max-width:992px) {
     .co-branding{
-        background-image: url("../../images/index-bg-md.png");
+        background-image: url("../images/index-bg-md.png");
     }
 }
 @media (max-width:576px) {
     .co-branding{
-        background-image: url("../../images/index-bg-sm.png");
+        background-image: url("../images/index-bg-sm.png");
     }
 }
 
